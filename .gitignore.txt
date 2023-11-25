@@ -38,3 +38,4 @@ venv/
 evadb_data
 categories.csv
 esrf_doc_categorizer_model/
+.env
